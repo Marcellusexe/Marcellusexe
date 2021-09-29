@@ -29,7 +29,7 @@
 
 <p align="left">
 <a href="https://github.com/KaptanMami">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoTion42&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaptanMami&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <h1 align="center" style="color:#fff">
