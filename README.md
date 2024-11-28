@@ -5,8 +5,8 @@
 <h3>📚 About me:</h3>
 <ul>
   <li>🚀 I'm <a href="https://marcellusdev.com">Marcellus</a>, a front-end developer from Turkey!</li>
-  <li>🛡️ i am developing discord bots and website</li>
-  <li>💻 I’m currently working on a cool project 😎</li>
+ <!-- <li>🛡️ i am developing discord bots and website</li>
+  <li>💻 I’m currently working on a cool project 😎</li> -->
   <li>📫 You can reach me from <a href="https://discord.com/users/853137765508186152" target"blank_">Discord</a> or <a href="https://www.instagram.com/xmuhammetdag_/" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>🪐 Languages and Tools:</h3>
