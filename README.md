@@ -1,10 +1,10 @@
 <h1 align="center" style="color:#fff">
-  Marcellus
+  Muhammet DAĞ
 </h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3>📚 About me:</h3>
 <ul>
-  <li>🚀 I'm <a href="https://marcellusdev.com">Marcellus</a>, a front-end developer from Turkey!</li>
+  <li>🚀 I'm <a href="https://marcellusdev.com">Muhammet DAĞ</a>, a front-end developer from Turkey!</li>
  <!-- <li>🛡️ i am developing discord bots and website</li>
   <li>💻 I’m currently working on a cool project 😎</li> -->
   <li>📫 You can reach me from <a href="https://discord.com/users/853137765508186152" target"blank_">Discord</a> or <a href="https://www.instagram.com/xmuhammetdag_/" target="_blank">Instagram</a>.</li>
@@ -20,14 +20,14 @@
 <h3>💻 My personal accounts:</h3>
 <p align="left">
    <!-- <a href="https://discord.com/users/853137765508186152" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> -->
-   <a href="https://youtube.marcellusdev.com/" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.marcellusdev.com/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/Marcellusexe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://www.youtube.com/@Marcellusxd" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://www.instagram.com/xmuhammetdag_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/muhammetdag" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>⚙️ Github Stats:</h3>
 
 <p align="left">
-<a href="https://github.com/Marcellusexe">
+<a href="https://github.com/muhammetdag">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcellusexe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
