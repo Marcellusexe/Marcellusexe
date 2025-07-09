@@ -76,14 +76,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/muhammetdag">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetdag&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&icon_color=22c55e&title_color=22c55e&text_color=ffffff" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/muhammetdag/muhammetdag/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
