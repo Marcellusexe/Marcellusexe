@@ -1,36 +1,100 @@
-<h1 align="center" style="color:#fff">
-  Muhammet DAĞ
-</h1>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<h3>📚 About me:</h3>
-<ul>
-  <li>🚀 I'm <a href="https://marcellusdev.com">Muhammet DAĞ</a>, a front-end developer from Turkey!</li>
- <!-- <li>🛡️ i am developing discord bots and website</li>
-  <li>💻 I’m currently working on a cool project 😎</li> -->
-  <li>📫 You can reach me from <a href="https://discord.com/users/853137765508186152" target"blank_">Discord</a> or <a href="https://www.instagram.com/xmuhammetdag_/" target="_blank">Instagram</a>.</li>
-</ul>
-<h3>🪐 Languages and Tools:</h3>
-<p style="float:right">
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<h3>💻 My personal accounts:</h3>
-<p align="left">
-   <!-- <a href="https://discord.com/users/853137765508186152" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> -->
-   <a href="https://www.youtube.com/@Marcellusxd" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://www.instagram.com/xmuhammetdag_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/muhammetdag" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<h3>⚙️ Github Stats:</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&section=header&text=Muhammet%20DAĞ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=62" />
+</div>
 
-<p align="left">
-<a href="https://github.com/muhammetdag">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammetdag&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-<h1 align="center" style="color:#fff">
+<div align="center">
+  <a href="https://github.com/muhammetdag" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=muhammetdag&style=for-the-badge&color=22c55e" alt="Profile Views"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200" />
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+- 🚀 I'm a **Frontend Developer** from Turkey!
+- 💻 I specialize in creating responsive & user-friendly web experiences
+- 🌐 Visit my portfolio: [AxuraFix.com](https://axurafix.com)
+- 📫 You can reach me via [Discord](https://discord.com/users/853137765508186152) or [Instagram](https://www.instagram.com/xmuhammetdag_/)
+
+<br>
+
+## 🛠️ **Languages & Tools**
+
+<div align="center">
   
-</h1>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
+
+<br>
+
+## 🔗 **Connect With Me**
+
+<div align="center">
+  <a href="https://www.youtube.com/@Marcellusxd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/xmuhammetdag_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/muhammetdag" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/853137765508186152" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+<br>
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <a href="https://github.com/muhammetdag">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammetdag&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=22c55e&title_color=22c55e&text_color=ffffff" height="170px" />
+  </a>
+  <a href="https://github.com/muhammetdag">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetdag&theme=github-dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="170px" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/muhammetdag">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetdag&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&icon_color=22c55e&title_color=22c55e&text_color=ffffff" />
+  </a>
+</div>
+
+<br>
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammetdag&theme=nord&column=7&no-frame=true&no-bg=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammetdag/muhammetdag/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=footer" />
+</div>
