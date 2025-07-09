@@ -83,14 +83,6 @@
 
 <br>
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammetdag&theme=nord&column=7&no-frame=true&no-bg=true" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammetdag/muhammetdag/output/github-contribution-grid-snake-dark.svg" />
 </div>
