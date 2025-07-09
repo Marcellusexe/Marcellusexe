@@ -18,7 +18,7 @@
 
 - 🚀 I'm a **Frontend Developer** from Turkey!
 - 💻 I specialize in creating responsive & user-friendly web experiences
-- 🌐 Visit my portfolio: [AxuraFix.com](https://muhammetdag.com)
+- 🌐 Visit my portfolio: [muhammetdag.com](https://muhammetdag.com)
 - 📫 You can reach me via [Discord](https://discord.com/users/853137765508186152) or [Instagram](https://www.instagram.com/xmuhammetdag_/)
 
 <br>
