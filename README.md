@@ -18,7 +18,7 @@
 
 - 🚀 I'm a **Frontend Developer** from Turkey!
 - 💻 I specialize in creating responsive & user-friendly web experiences
-- 🌐 Visit my portfolio: [AxuraFix.com](https://axurafix.com)
+- 🌐 Visit my portfolio: [AxuraFix.com](https://muhammetdag.com)
 - 📫 You can reach me via [Discord](https://discord.com/users/853137765508186152) or [Instagram](https://www.instagram.com/xmuhammetdag_/)
 
 <br>
@@ -71,12 +71,6 @@
   <a href="https://github.com/muhammetdag">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetdag&theme=github-dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="170px" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammetdag/muhammetdag/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div align="center">
