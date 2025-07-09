@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://github.com/muhammetdag">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcellusexe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammetdag&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <h1 align="center" style="color:#fff">
